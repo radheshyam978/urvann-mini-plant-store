@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Money Plant",
+    "price": 693.0,
+    "categories": [
+      "Home Decor",
+      "Indoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Areca Palm",
+    "price": 339.0,
+    "categories": [
+      "Herb",
+      "Low Maintenance",
+      "Outdoor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Snake Plant",
+    "price": 176.0,
+    "categories": [
+      "Air Purifying"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Aloe Vera",
+    "price": 579.0,
+    "categories": [
+      "Herb",
+      "Medicinal",
+      "Succulent"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Spider Plant",
+    "price": 758.0,
+    "categories": [
+      "Air Purifying",
+      "Herb",
+      "Medicinal"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Peace Lily",
+    "price": 650.0,
+    "categories": [
+      "Succulent"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Rubber Plant",
+    "price": 438.0,
+    "categories": [
+      "Air Purifying"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "ZZ Plant",
+    "price": 236.0,
+    "categories": [
+      "Flowering",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Jade Plant",
+    "price": 662.0,
+    "categories": [
+      "Bonsai"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Fiddle Leaf Fig",
+    "price": 976.0,
+    "categories": [
+      "Herb",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Pothos Marble Queen",
+    "price": 854.0,
+    "categories": [
+      "Air Purifying",
+      "Flowering",
+      "Home Decor",
+      "Indoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Boston Fern",
+    "price": 188.0,
+    "categories": [
+      "Home Decor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Croton",
+    "price": 876.0,
+    "categories": [
+      "Medicinal"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Chinese Evergreen",
+    "price": 534.0,
+    "categories": [
+      "Flowering",
+      "Succulent"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Dracaena Lemon Lime",
+    "price": 327.0,
+    "categories": [
+      "Outdoor",
+      "Succulent"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Syngonium",
+    "price": 288.0,
+    "categories": [
+      "Herb",
+      "Home Decor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Monstera Deliciosa",
+    "price": 731.0,
+    "categories": [
+      "Air Purifying"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Bougainvillea",
+    "price": 833.0,
+    "categories": [
+      "Home Decor",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Hibiscus",
+    "price": 925.0,
+    "categories": [
+      "Air Purifying",
+      "Flowering"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Lavender",
+    "price": 485.0,
+    "categories": [
+      "Bonsai",
+      "Home Decor",
+      "Succulent"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Rosemary",
+    "price": 359.0,
+    "categories": [
+      "Herb",
+      "Home Decor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Basil",
+    "price": 912.0,
+    "categories": [
+      "Air Purifying",
+      "Flowering"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Mint",
+    "price": 582.0,
+    "categories": [
+      "Indoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Coriander",
+    "price": 279.0,
+    "categories": [
+      "Medicinal"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Thyme",
+    "price": 476.0,
+    "categories": [
+      "Bonsai",
+      "Herb"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Gardenia",
+    "price": 974.0,
+    "categories": [
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Chrysanthemum",
+    "price": 802.0,
+    "categories": [
+      "Home Decor",
+      "Outdoor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Ixora",
+    "price": 283.0,
+    "categories": [
+      "Home Decor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Marigold",
+    "price": 581.0,
+    "categories": [
+      "Home Decor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Petunia",
+    "price": 279.0,
+    "categories": [
+      "Herb"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Adenium Desert Rose",
+    "price": 658.0,
+    "categories": [
+      "Indoor",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Echeveria",
+    "price": 896.0,
+    "categories": [
+      "Air Purifying",
+      "Indoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Haworthia",
+    "price": 895.0,
+    "categories": [
+      "Outdoor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Gasteria",
+    "price": 843.0,
+    "categories": [
+      "Low Maintenance",
+      "Succulent"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Kalanchoe",
+    "price": 954.0,
+    "categories": [
+      "Home Decor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Bamboo Palm",
+    "price": 969.0,
+    "categories": [
+      "Air Purifying",
+      "Home Decor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Lucky Bamboo",
+    "price": 995.0,
+    "categories": [
+      "Bonsai",
+      "Flowering",
+      "Herb"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Ficus Benjamina",
+    "price": 360.0,
+    "categories": [
+      "Flowering"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Schefflera",
+    "price": 649.0,
+    "categories": [
+      "Low Maintenance"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Portulaca",
+    "price": 155.0,
+    "categories": [
+      "Air Purifying",
+      "Indoor",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Coleus",
+    "price": 880.0,
+    "categories": [
+      "Herb"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Tradescantia",
+    "price": 386.0,
+    "categories": [
+      "Air Purifying",
+      "Herb"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Calathea",
+    "price": 764.0,
+    "categories": [
+      "Bonsai",
+      "Low Maintenance"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Philodendron Brazil",
+    "price": 816.0,
+    "categories": [
+      "Air Purifying",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Areca Dypsis Lutescens",
+    "price": 709.0,
+    "categories": [
+      "Low Maintenance",
+      "Medicinal"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Aglaonema Red",
+    "price": 883.0,
+    "categories": [
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Sansevieria Laurentii",
+    "price": 491.0,
+    "categories": [
+      "Air Purifying",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Pachira Money Tree",
+    "price": 311.0,
+    "categories": [
+      "Medicinal",
+      "Succulent"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Bonsai Ficus",
+    "price": 386.0,
+    "categories": [
+      "Bonsai",
+      "Indoor",
+      "Outdoor"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Aptenia",
+    "price": 836.0,
+    "categories": [
+      "Indoor",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Bougainvillea Dwarf",
+    "price": 973.0,
+    "categories": [
+      "Succulent"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Geranium",
+    "price": 562.0,
+    "categories": [
+      "Medicinal"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Peace Lily Spathiphyllum",
+    "price": 289.0,
+    "categories": [
+      "Medicinal"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Song of India",
+    "price": 937.0,
+    "categories": [
+      "Home Decor",
+      "Medicinal"
+    ],
+    "inStock": false
+  },
+  {
+    "name": "Jasmine",
+    "price": 281.0,
+    "categories": [
+      "Air Purifying",
+      "Indoor"
+    ],
+    "inStock": true
+  }
+]
